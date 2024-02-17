@@ -1,0 +1,1 @@
+// it doesn't work when the ones digit is 0.
